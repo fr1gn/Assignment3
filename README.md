@@ -1,4 +1,4 @@
-Hello, its a project that uses the JDBC and PostgreSQL, and project name is Online Course System
+Hello, its a project that uses the JDBC and PostgreSQL, and project name is Online Course Management System
 Project Programmers:
 1.Tairlan
 2.Zhanel
