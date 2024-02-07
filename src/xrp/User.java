@@ -2,13 +2,13 @@ package xrp;
 
 public class User {
 
-    private int id;
+    private int Userid;
     private static int id_gen;
     private String name;
     private String surname;
 
     User() {
-        id = id_gen++;
+        Userid = id_gen++;
     }
 
     public void setSurname(String surname) {
@@ -31,4 +31,5 @@ public class User {
         setName(name);
         setSurname(surname);
     }
+
 }
